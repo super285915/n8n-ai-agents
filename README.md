@@ -16,8 +16,3 @@ This repository includes the following AI agent workflows:
 
 Simply download the workflows and import them into your n8n instance to get started.
 
-## Tutorial
-
-For a detailed walkthrough of how to use these workflows and understand the concepts behind building AI agents with n8n, watch the full tutorial on YouTube:
-
-[Watch the n8n AI Agents Masterclass Tutorial](https://youtu.be/o2Pubq36Pao)
